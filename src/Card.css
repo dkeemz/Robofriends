@@ -1,0 +1,12 @@
+.Card{
+width: 400px;
+height:auto;
+text-align: center;
+padding: 20px;
+margin: 7px;
+border-radius: 10px;
+box-shadow: 1px 1px 2px 3px black;
+}
+img {
+	background-color: rgba(0, 0, 0, 0.5);
+}
